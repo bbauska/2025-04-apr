@@ -13,7 +13,14 @@ table {
   height:300px;
   text-align:right;
 }
-
+p {
+  color:#fff;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
+}
 h1 {
   color:#FFF;
   font-size:200%;

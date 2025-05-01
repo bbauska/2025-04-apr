@@ -7,7 +7,7 @@ table {
 }
 <!-- background-image:url("https://calendar-2025-apr/images/Roswell-600x300.jpg");  -->
 .month-header {
-  background-image:url("./images/Roswell-600x300.jpg");
+  background-image:url(".images/Roswell-600x300.png");
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;

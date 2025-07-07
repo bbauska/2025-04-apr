@@ -110,6 +110,9 @@ a:hover::after {
 .natl-walk-day {
     background-color:#ffc040;  /* light orange */
 }
+.liberation {
+    background-color:#a6f4ff;  /* pale cyan */
+}
 .natl-burrito {
     background-color:#ff9999;  /* light red */
 }
